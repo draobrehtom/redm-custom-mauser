@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infos> 
+  <CWeaponInfo>
+    <Name>WEAPON_PISTOL_MAUSER</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="15" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.1" />
+    </WeaponReload>
+
+  </CWeaponInfo>
+</Infos>
